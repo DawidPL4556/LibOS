@@ -2,7 +2,7 @@
 
 	return ['host' => 'localhost',
 			'user' => 'root',
-			'password' => 'qazwss1234',
+			'password' => '',
 			'database' => 'libos'];
 
 ?>
