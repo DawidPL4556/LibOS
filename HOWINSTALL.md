@@ -6,7 +6,7 @@
 
 3) W PhpMyAdmin tworzymy bazę danych o nazwie "libos".
 
-4) Wchodzimy w Import i wybieramy plik Database.Dump pobrany z mojego githuba.
+4) Wchodzimy w Import i wybieramy plik Database.sql pobrany z mojego githuba.
 
 5) Sprawdzamy czy dane w pliku config.php są takie jak dane dostępowe do naszej bazy.
 
